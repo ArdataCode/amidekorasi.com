@@ -1,0 +1,20 @@
+[08-May-2024 22:40:41 Asia/Jakarta] PHP Warning:  require_once(/home/landingu/amidekorasi.com/wordpress/wp-load.php): Failed to open stream: No such file or directory in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[08-May-2024 22:40:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/landingu/amidekorasi.com/wordpress/wp-load.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[09-May-2024 05:57:51 Asia/Jakarta] PHP Warning:  require_once(/home/landingu/amidekorasi.com/wordpress/wp-load.php): Failed to open stream: No such file or directory in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[09-May-2024 05:57:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/landingu/amidekorasi.com/wordpress/wp-load.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[13-May-2024 01:31:57 Asia/Jakarta] PHP Warning:  require_once(/home/landingu/amidekorasi.com/wordpress/wp-load.php): Failed to open stream: No such file or directory in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[13-May-2024 01:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/landingu/amidekorasi.com/wordpress/wp-load.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[17-May-2024 05:46:56 Asia/Jakarta] PHP Warning:  require_once(/home/landingu/amidekorasi.com/wordpress/wp-load.php): Failed to open stream: No such file or directory in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36
+[17-May-2024 05:46:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/landingu/amidekorasi.com/wordpress/wp-load.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/amidekorasi.com/wordpress/wp-admin/install.php on line 36

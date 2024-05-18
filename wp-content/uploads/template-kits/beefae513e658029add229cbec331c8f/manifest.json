@@ -1,0 +1,1287 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Forestter - Template kit for Glamping Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.jpg",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Forestter - Error 404",
+            "screenshot": "screenshots\/forestter-error-404.jpg",
+            "source": "templates\/forestter-error-404.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/?elementor_library=forestter-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Forestter - Single post",
+            "screenshot": "screenshots\/forestter-single-post.jpg",
+            "source": "templates\/forestter-single-post.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/?elementor_library=forestter-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Forestter - Archive",
+            "screenshot": "screenshots\/forestter-archive.jpg",
+            "source": "templates\/forestter-archive.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/?elementor_library=forestter-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Forestter - Footer",
+            "screenshot": "screenshots\/forestter-footer.jpg",
+            "source": "templates\/forestter-footer.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/?elementor_library=forestter-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Forestter - Header",
+            "screenshot": "screenshots\/forestter-header.jpg",
+            "source": "templates\/forestter-header.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/forestter\/?elementor_library=forestter-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.7.7",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "tent-on-the-territory-of-glamping-at-dusk-lanterns-glow-on-a-tent-in-a-campsite.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/tent-on-the-territory-of-glamping-at-dusk-lanterns-glow-on-a-tent-in-a-campsite-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 114943,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3L6QE7K"
+        },
+        {
+            "filename": "friends-cooking-on-campfire-picnic-at-camping.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/friends-cooking-on-campfire-picnic-at-camping-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 180880,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MN4W3NM"
+        },
+        {
+            "filename": "attractive-young-couple-sitting-by-a-campfire-and-tent-.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/attractive-young-couple-sitting-by-a-campfire-and-tent--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 184366,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TPXN4QQ"
+        },
+        {
+            "filename": "happy-couple-in-forest-glamping-with-trailer.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/happy-couple-in-forest-glamping-with-trailer-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 245782,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-75NE2KL"
+        },
+        {
+            "filename": "img_3.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img_3-800x100.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/forestter-single-post.json",
+                    "name": "Forestter - Single post"
+                },
+                {
+                    "source": "templates\/forestter-archive.json",
+                    "name": "Forestter - Archive"
+                }
+            ],
+            "filesize": 109158,
+            "dimensions": [
+                1600,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "glamping-tent-in-the-morning-sunlight-with-mountain-range-panorama.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/glamping-tent-in-the-morning-sunlight-with-mountain-range-panorama-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/forestter-error-404.json",
+                    "name": "Forestter - Error 404"
+                }
+            ],
+            "filesize": 192032,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WVGL3D9"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "glamping-tent-in-green-meadow-surrounded-by-fir-tree-forest-at-sunrise.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/glamping-tent-in-green-meadow-surrounded-by-fir-tree-forest-at-sunrise-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 165616,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2MQ8BQ"
+        },
+        {
+            "filename": "happy-young-family-having-breakfast-by-glamping-tent.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/happy-young-family-having-breakfast-by-glamping-tent-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 160422,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZQ2S23N"
+        },
+        {
+            "filename": "close-friend-sitting-on-camping-chairs-around-camp-fire.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/close-friend-sitting-on-camping-chairs-around-camp-fire-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 144694,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DNG6PM3"
+        },
+        {
+            "filename": "woman-family-or-friends-group-trekking-travel-in-adventure-lifestyle-nature-hiking-in-vacation.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/woman-family-or-friends-group-trekking-travel-in-adventure-lifestyle-nature-hiking-in-vacation-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 145525,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3KLXRLA"
+        },
+        {
+            "filename": "decorated-tent-glamping-decorated-for-outdoor-wedding.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/decorated-tent-glamping-decorated-for-outdoor-wedding-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 203385,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M25S549"
+        },
+        {
+            "filename": "map_bg.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/map_bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 59143,
+            "dimensions": [
+                720,
+                530
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "group-of-multiracial-millennial-friends-using-laptop-on-autumn-camping-trip-to-countryside-chatting.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/group-of-multiracial-millennial-friends-using-laptop-on-autumn-camping-trip-to-countryside-chatting-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 169555,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7BVSLC"
+        },
+        {
+            "filename": "young-couple-with-smartphones-sitting-on-terrace-of-glamping-house.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/young-couple-with-smartphones-sitting-on-terrace-of-glamping-house-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 206357,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K7ZTCU2"
+        },
+        {
+            "filename": "img__0007_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0007_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42410,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img__0003_Layer-5.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0003_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 47988,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img__0002_Layer-6.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0002_Layer-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58477,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "lit-up-dome-tent-aurora-borealis-in-background-narsaq-vestgronland-greenland.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/lit-up-dome-tent-aurora-borealis-in-background-narsaq-vestgronland-greenland-800x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 90482,
+            "dimensions": [
+                1280,
+                840
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-97QLFAQ"
+        },
+        {
+            "filename": "served-table-and-two-chairs-prepared-for-romantic-dinner.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/served-table-and-two-chairs-prepared-for-romantic-dinner-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 165363,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ALFV6NC"
+        },
+        {
+            "filename": "relaxing-outside-luxury-tent-on-glamping-trip-at-glacier-national-park.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/relaxing-outside-luxury-tent-on-glamping-trip-at-glacier-national-park-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 137475,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HLQM9DT"
+        },
+        {
+            "filename": "young-man-sits-near-trailer-truck-and-playing-guitar.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/young-man-sits-near-trailer-truck-and-playing-guitar-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 157369,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZWBWCW7"
+        },
+        {
+            "filename": "view-of-modern-camping-tents-in-the-glamping-area.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/view-of-modern-camping-tents-in-the-glamping-area-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 241926,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JHXKX69"
+        },
+        {
+            "filename": "travel-girl-travels-through-the-mountains-glamping-tents-waterfalls-of-wild-nature-unity-mental.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/travel-girl-travels-through-the-mountains-glamping-tents-waterfalls-of-wild-nature-unity-mental-800x355.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 85529,
+            "dimensions": [
+                1280,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LBPPGJS"
+        },
+        {
+            "filename": "Payment-Icon.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/Payment-Icon-800x133.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 29013,
+            "dimensions": [
+                1111,
+                185
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img__0004_Layer-4.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0004_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img__0001_Layer-7.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0001_Layer-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 41345,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img__0000_Layer-8.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0000_Layer-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 33914,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "img__0006_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0006_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 50306,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "img__0005_Layer-3.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img__0005_Layer-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43481,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "young-serene-couple-standing-by-glamping-house-and-looking-forwards.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/young-serene-couple-standing-by-glamping-house-and-looking-forwards-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 136318,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BDDRGTF"
+        },
+        {
+            "filename": "masking_3.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/masking_3.png",
+            "templates": [
+                {
+                    "source": "templates\/forestter-error-404.json",
+                    "name": "Forestter - Error 404"
+                }
+            ],
+            "filesize": 50341,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "part-of-glamping-house-with-table-and-chairs-and-blue-ocean.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/part-of-glamping-house-with-table-and-chairs-and-blue-ocean-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/forestter-archive.json",
+                    "name": "Forestter - Archive"
+                }
+            ],
+            "filesize": 200963,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2VPM4UT"
+        },
+        {
+            "filename": "img_4.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/img_4-800x200.png",
+            "templates": [
+                {
+                    "source": "templates\/forestter-footer.json",
+                    "name": "Forestter - Footer"
+                }
+            ],
+            "filesize": 82787,
+            "dimensions": [
+                1600,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_forestter.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/forestter\/wp-content\/uploads\/sites\/16\/2022\/11\/Logo_forestter.png",
+            "templates": [
+                {
+                    "source": "templates\/forestter-footer.json",
+                    "name": "Forestter - Footer"
+                },
+                {
+                    "source": "templates\/forestter-header.json",
+                    "name": "Forestter - Header"
+                }
+            ],
+            "filesize": 10661,
+            "dimensions": [
+                470,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
